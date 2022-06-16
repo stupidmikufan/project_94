@@ -1,0 +1,22 @@
+html, body{
+    background-color: blue;
+    margin: 0;
+    height: 100%;
+    
+}
+#room_name{
+    width: 50%;
+}
+#logout
+{
+    font-size: 20px;
+    float: right;
+}
+
+.container {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
